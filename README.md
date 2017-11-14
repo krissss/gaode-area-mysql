@@ -21,7 +21,7 @@
 2.使用 composer 更新项目依赖
 
 ```php
-    composer update -vvv
+composer install
 ```
 
 3.修改 `mysql/settings.ini.php`，修改数据库链接
