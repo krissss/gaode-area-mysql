@@ -1,0 +1,13 @@
+{
+  "name": "kriss/gaode-area",
+  "description": "高德地图地区编码 mysql 数据",
+  "authors": [
+    {
+      "name": "kriss",
+      "email": "462679766@qq.com"
+    }
+  ],
+  "require": {
+    "overtrue/pinyin": "~3.0"
+  }
+}
